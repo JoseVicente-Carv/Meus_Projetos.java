@@ -4,7 +4,7 @@
 
 package com.mycompany.java.exemplo3;
 
-import java.util.Scanner; //biblioteca importada automaticamente. Permite que a leitura de caracteres digitados.
+import java.util.Scanner; //biblioteca importada automaticamente. Permite a leitura de caracteres digitados.
 
 /**
  *
